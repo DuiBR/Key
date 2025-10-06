@@ -3,14 +3,14 @@
         "device_id": "d2aa63282c97ae5d",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": true
     },
     {
         "device_id": "d2aa63282c97ae5d",
         "username": "user2",
         "password": "pass123",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     }
 ]
