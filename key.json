@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "FASTMOB ⭕",
-  "description": "Por fsvor, utilize seu usuário e senha para acessar o app.",
+  "description": "Por favor, utilize seu usuário e senha para acessar o app.",
   "button": "LOGIN",
   "toast": "Autenticado com sucesso!✅",
   "renewUrl": "https://painel.darkhub.space/renovar.php",
